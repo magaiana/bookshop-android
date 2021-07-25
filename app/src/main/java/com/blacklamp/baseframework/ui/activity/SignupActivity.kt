@@ -1,4 +1,4 @@
-package com.blacklamp.baseframework.ui.auth
+package com.blacklamp.baseframework.ui.activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

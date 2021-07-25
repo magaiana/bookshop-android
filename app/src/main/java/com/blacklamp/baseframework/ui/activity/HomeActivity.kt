@@ -1,4 +1,4 @@
-package com.blacklamp.baseframework.ui.home
+package com.blacklamp.baseframework.ui.activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
